@@ -1,0 +1,16 @@
+@media only screen and (min-width: 390px) and (max-width: 767px){
+    .content{
+       margin-left: 0% !important;
+    }
+    .footer-part{
+        margin-left: 140px !important;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 990px){
+    .content{
+        margin-left: 10% !important;
+     }
+     .footer-part{
+         margin-left: 310px !important;
+     }
+}
